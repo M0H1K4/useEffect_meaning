@@ -37,6 +37,8 @@ function App() {
     modal.current.close();
   }
 
+
+  
   return (
     <>
       <Modal ref={modal}>
