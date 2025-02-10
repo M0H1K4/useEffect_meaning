@@ -31,6 +31,12 @@ function App() {
   }
 
 
+
+
+
+
+
+  
   
   function handleRemovePlace() {
     setPickedPlaces((prevPickedPlaces) =>
